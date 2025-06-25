@@ -1,0 +1,31 @@
+# Java & Maven
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.ear
+
+# STS/Eclipse
+.settings/
+.classpath
+.project
+bin/
+target/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Selenium/Driver
+chromedriver.exe
+
+# 기타
+*.swp
+*.swo
